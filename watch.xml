@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260421">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260422">
 <channel id="TVSClassicSports.us@SD"><display-name>TVS Classic Sports</display-name><icon src="https://i.imgur.com/auR0Mi6.png"/><url>https://watchyour.tv</url></channel>
-<channel id="TVSBoxing.us@SD"><display-name>TVS Boxing Network</display-name><icon src="https://i.imgur.com/30ZoF75.png"/><url>https://watchyour.tv</url></channel>
 <channel id="850"><display-name>TVS Soft Winds Network</display-name><url>https://watchyour.tv</url></channel>
 <channel id="849"><display-name>TVS Vintage Network</display-name><url>https://watchyour.tv</url></channel>
 <channel id="848"><display-name>TVS Variety Network</display-name><url>https://watchyour.tv</url></channel>
@@ -39,240 +38,262 @@
 <channel id="796"><display-name>TVS All American</display-name><url>https://watchyour.tv</url></channel>
 <channel id="TVSTavern.us@SD"><display-name>TVS Tavern TV</display-name><icon src="https://i.imgur.com/3GTIs4j.png"/><url>https://watchyour.tv</url></channel>
 <channel id="TVSTurbo.us@SD"><display-name>TVS Turbo Network</display-name><icon src="https://i.imgur.com/7zYIbU1.png"/><url>https://watchyour.tv</url></channel>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="796"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Sports</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="796"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Sports</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="796"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Sports</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="796"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Sports</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="796"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Sports</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="802"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="802"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="802"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="802"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="802"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="815"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="815"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="815"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="815"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="815"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421001040 +0000" stop="20260421005840 +0000" channel="817"><title lang="en">Family</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421005825 +0000" stop="20260421015025 +0000" channel="817"><title lang="en">Love American Style 1x23</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421015023 +0000" stop="20260421024323 +0000" channel="817"><title lang="en">Love American Style 1x24</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421024225 +0000" stop="20260421024825 +0000" channel="817"><title lang="en">betcha by golly wow 2-encoded2</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421024750 +0000" stop="20260421030550 +0000" channel="817"><title lang="en">Superman</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421030522 +0000" stop="20260421035222 +0000" channel="817"><title lang="en">Sing Along With Mitch - Courtship</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421035211 +0000" stop="20260421040011 +0000" channel="817"><title lang="en">Sing Along With Mitch - Christmas Songs</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421004521 +0000" stop="20260421013621 +0000" channel="818"><title lang="en">Quincy ME S02e09</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421013601 +0000" stop="20260421024001 +0000" channel="818"><title lang="en">wrestling1</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421023945 +0000" stop="20260421030745 +0000" channel="818"><title lang="en">1st &amp; 10 Video 1</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421030700 +0000" stop="20260421033100 +0000" channel="818"><title lang="en">Portraits of Power</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421033044 +0000" stop="20260421035244 +0000" channel="818"><title lang="en">Mari S01e02r - Laila Ali &amp; High Five</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421035203 +0000" stop="20260421040003 +0000" channel="818"><title lang="en">Joan Rivers 7</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="824"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="824"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="824"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="824"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="824"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="831"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="831"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="831"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="831"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="831"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="832"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Sports</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="832"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Sports</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="832"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Sports</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="832"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Sports</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="832"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Sports</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="833"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Sports</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="833"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Sports</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="833"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Sports</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="833"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Sports</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="833"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Sports</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="834"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="834"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="834"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="834"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="834"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421005316 +0000" stop="20260421012216 +0000" channel="840"><title lang="en">Little Giant Ladder</title><category lang="en">Home Shopping</category></programme>
-<programme start="20260421012156 +0000" stop="20260421015256 +0000" channel="840"><title lang="en">Ninja Foodi Grill (800) 383-35 97</title><category lang="en">Home Shopping</category></programme>
-<programme start="20260421015158 +0000" stop="20260421022158 +0000" channel="840"><title lang="en">Austin City Limits (800) 948-3405</title><category lang="en">Home Shopping</category></programme>
-<programme start="20260421022100 +0000" stop="20260421040000 +0000" channel="840"><title lang="en">Rare Collectibles</title><category lang="en">Home Shopping</category></programme>
-<programme start="20260421001602 +0000" stop="20260421010802 +0000" channel="845"><title lang="en">Sing Along With Mitch - Christmas Songs</title><category lang="en">Featured</category></programme>
-<programme start="20260421010748 +0000" stop="20260421020848 +0000" channel="845"><title lang="en">Chicago Symphony Orchestra</title><category lang="en">Featured</category></programme>
-<programme start="20260421020843 +0000" stop="20260421022343 +0000" channel="845"><title lang="en">The Dinah Shore</title><category lang="en">Featured</category></programme>
-<programme start="20260421022328 +0000" stop="20260421025528 +0000" channel="845"><title lang="en">Your Hit Parade January 31, 1953</title><category lang="en">Featured</category></programme>
-<programme start="20260421025514 +0000" stop="20260421034614 +0000" channel="845"><title lang="en">Hollywood Palace S02E12 with Burl Ives</title><category lang="en">Featured</category></programme>
-<programme start="20260421034556 +0000" stop="20260421034856 +0000" channel="845"><title lang="en">TVS Logo</title><category lang="en">Featured</category></programme>
-<programme start="20260421034829 +0000" stop="20260421040029 +0000" channel="845"><title lang="en">Glen Campbell Music Show With Sheena Easton</title><category lang="en">Featured</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="846"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="846"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="846"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="846"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="846"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421004331 +0000" stop="20260421004731 +0000" channel="848"><title lang="en">i lcan help-encoded2</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421004647 +0000" stop="20260421005047 +0000" channel="848"><title lang="en">Rockin Robin 1-encoded2</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421005005 +0000" stop="20260421005305 +0000" channel="848"><title lang="en">confidential 1-encoded2</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421005257 +0000" stop="20260421005657 +0000" channel="848"><title lang="en">THE NIGHT CHICAGO DIED-encoded2</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421005647 +0000" stop="20260421005947 +0000" channel="848"><title lang="en">TVS Logo</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421005918 +0000" stop="20260421010618 +0000" channel="848"><title lang="en">Touch The Wind-encoded2</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421010548 +0000" stop="20260421010848 +0000" channel="848"><title lang="en">Turn Down Day-encoded2</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421010840 +0000" stop="20260421011240 +0000" channel="848"><title lang="en">THE WONDERER-encoded2</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421011148 +0000" stop="20260421011548 +0000" channel="848"><title lang="en">back in love again 1-encoded2</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421011519 +0000" stop="20260421040019 +0000" channel="848"><title lang="en">Rare Collectibles</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421003119 +0000" stop="20260421010019 +0000" channel="849"><title lang="en">Jack Paar Show (1954)</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421005938 +0000" stop="20260421020038 +0000" channel="849"><title lang="en">Texaco Star Theater with Ethel Merman</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421020032 +0000" stop="20260421023232 +0000" channel="849"><title lang="en">Morey Amsterdam Show with Boots Orlanis</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421023143 +0000" stop="20260421031643 +0000" channel="849"><title lang="en">The Buick-Berle Show with Mickey Rooney</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421031614 +0000" stop="20260421034714 +0000" channel="849"><title lang="en">The Ben Blue Show (1950)</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421034629 +0000" stop="20260421040029 +0000" channel="849"><title lang="en">Cavalcade of Stars with Jackie Robinson</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="TVSBoxing.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Featured</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="TVSBoxing.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Featured</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="TVSBoxing.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Featured</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="TVSBoxing.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Featured</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="TVSBoxing.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Featured</category></programme>
-<programme start="20260421000004 +0000" stop="20260421005104 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">The Alfred Hitchcock Hour S02E15</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421005016 +0000" stop="20260421011516 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">One Step Beyond S1E04</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421011508 +0000" stop="20260421020608 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">The Alfred Hitchcock Hour S03E22</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421020535 +0000" stop="20260421023235 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">Sherlock Holmes 05 The Case Of The Belligeren</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421023229 +0000" stop="20260421025929 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">Sherlock Holmes 02 The Case Of Lady Beryl</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421025922 +0000" stop="20260421035022 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">The Alfred Hitchcock Hour S03E24</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421034948 +0000" stop="20260421035248 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">Beg Borrow and Steal-encoded2</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421035222 +0000" stop="20260421035522 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">Rockin Robin 1-encoded2</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421035510 +0000" stop="20260421040010 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">Suspense S01E14 Help Wanted with Otto Kruger</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421000200 +0000" stop="20260421023600 +0000" channel="TVSClassicMovies.us@SD"><title lang="en">Voyage Of The Damned (1976)</title><category lang="en">Movies</category></programme>
-<programme start="20260421023539 +0000" stop="20260421034839 +0000" channel="TVSClassicMovies.us@SD"><title lang="en">Killers From Space</title><category lang="en">Movies</category></programme>
-<programme start="20260421034813 +0000" stop="20260421040013 +0000" channel="TVSClassicMovies.us@SD"><title lang="en">Sweet Smell of Success (1957)</title><category lang="en">Movies</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="TVSClassicSports.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Featured</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="TVSClassicSports.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Featured</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="TVSClassicSports.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Featured</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="TVSClassicSports.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Featured</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="TVSClassicSports.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Featured</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="TVSComedyNetwork.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="TVSComedyNetwork.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="TVSComedyNetwork.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="TVSComedyNetwork.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="TVSComedyNetwork.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421005039 +0000" stop="20260421023739 +0000" channel="TVSDriveInMovie.us@SD"><title lang="en">Joe (1970)</title><category lang="en">Movies</category></programme>
-<programme start="20260421023728 +0000" stop="20260421040028 +0000" channel="TVSDriveInMovie.us@SD"><title lang="en">Day of the Assassin (1979)</title><category lang="en">Movies</category></programme>
-<programme start="20260421011202 +0000" stop="20260421023202 +0000" channel="TVSFilmNoirNetwork.us@SD"><title lang="en">Iron Man (1951)</title><category lang="en">Movies</category></programme>
-<programme start="20260421023134 +0000" stop="20260421034934 +0000" channel="TVSFilmNoirNetwork.us@SD"><title lang="en">The Killer That Stalked New York</title><category lang="en">Movies</category></programme>
-<programme start="20260421034911 +0000" stop="20260421040011 +0000" channel="TVSFilmNoirNetwork.us@SD"><title lang="en">The 39 Steps (1935)</title><category lang="en">Movies</category></programme>
-<programme start="20260421004556 +0000" stop="20260421013856 +0000" channel="TVSFrontPageDetective.us@SD"><title lang="en">Mannix S08E21</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421013801 +0000" stop="20260421023001 +0000" channel="TVSFrontPageDetective.us@SD"><title lang="en">Quincy ME S02E12</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421022956 +0000" stop="20260421032156 +0000" channel="TVSFrontPageDetective.us@SD"><title lang="en">Quincy ME S02E10</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421032149 +0000" stop="20260421034849 +0000" channel="TVSFrontPageDetective.us@SD"><title lang="en">China Smith</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421034805 +0000" stop="20260421040005 +0000" channel="TVSFrontPageDetective.us@SD"><title lang="en">Roadblock - Pilot Episode (1958)</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421000946 +0000" stop="20260421001646 +0000" channel="TVSHiTops.us@SD"><title lang="en">Casper S01E37 Fright From Wrong</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421001638 +0000" stop="20260421004338 +0000" channel="TVSHiTops.us@SD"><title lang="en">Courageous Cat and Minute Mouse Vol. 10</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421004252 +0000" stop="20260421010452 +0000" channel="TVSHiTops.us@SD"><title lang="en">Clutch Cargo</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421010359 +0000" stop="20260421015159 +0000" channel="TVSHiTops.us@SD"><title lang="en">George of the Jungle - Banana Deficiency</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421015105 +0000" stop="20260421015605 +0000" channel="TVSHiTops.us@SD"><title lang="en">The King and Odie - Left Alone Leonardo</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421015545 +0000" stop="20260421022345 +0000" channel="TVSHiTops.us@SD"><title lang="en">Sky King 3</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421022313 +0000" stop="20260421025413 +0000" channel="TVSHiTops.us@SD"><title lang="en">Calvin And The Colonel 1</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421025327 +0000" stop="20260421025927 +0000" channel="TVSHiTops.us@SD"><title lang="en">Crusader Rabbit Crusade 1 Episode 03</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421025839 +0000" stop="20260421030739 +0000" channel="TVSHiTops.us@SD"><title lang="en">1967 Green Lantern Cartoon</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421030649 +0000" stop="20260421032949 +0000" channel="TVSHiTops.us@SD"><title lang="en">Doctor Dolittle - The Great Turkey Race</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421032936 +0000" stop="20260421040036 +0000" channel="TVSHiTops.us@SD"><title lang="en">Paul Winchell Show</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="TVSHollywoodHistory.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="TVSHollywoodHistory.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="TVSHollywoodHistory.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="TVSHollywoodHistory.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="TVSHollywoodHistory.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="TVSHorrorNetwork.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Movies</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="TVSHorrorNetwork.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Movies</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="TVSHorrorNetwork.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Movies</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="TVSHorrorNetwork.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Movies</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="TVSHorrorNetwork.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Movies</category></programme>
-<programme start="20260421004246 +0000" stop="20260421013446 +0000" channel="TVSMainstreet.us@SD"><title lang="en">The Big Valley S01E06 Heritage</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421013419 +0000" stop="20260421022319 +0000" channel="TVSMainstreet.us@SD"><title lang="en">Garrison&apos;s Gorillas - Ep 02 Breakout</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421022248 +0000" stop="20260421031148 +0000" channel="TVSMainstreet.us@SD"><title lang="en">Garrison&apos;s Gorillas - Ep 03 The Grab</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421031059 +0000" stop="20260421031359 +0000" channel="TVSMainstreet.us@SD"><title lang="en">Glen Campbell - Blue Moon Of Kentucky</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421031338 +0000" stop="20260421031638 +0000" channel="TVSMainstreet.us@SD"><title lang="en">Glen Campbell &amp; Bob Wills - San Antonio Rose</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421031630 +0000" stop="20260421040030 +0000" channel="TVSMainstreet.us@SD"><title lang="en">Glen Campbell Goodtime Hour</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421000618 +0000" stop="20260421003218 +0000" channel="TVSNostalgia.us@SD"><title lang="en">Jim Bowie</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421003122 +0000" stop="20260421003422 +0000" channel="TVSNostalgia.us@SD"><title lang="en">TURN DOWN DAY 1-encoded2</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421003404 +0000" stop="20260421012504 +0000" channel="TVSNostalgia.us@SD"><title lang="en">The Alfred Hitchcock Hour S03E09 Triumph</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421012422 +0000" stop="20260421020922 +0000" channel="TVSNostalgia.us@SD"><title lang="en">Sid Caesar Show 2</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421020918 +0000" stop="20260421030218 +0000" channel="TVSNostalgia.us@SD"><title lang="en">Buick Milton Berle Show 2</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421030213 +0000" stop="20260421034813 +0000" channel="TVSNostalgia.us@SD"><title lang="en">High Chaparral</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421034758 +0000" stop="20260421040058 +0000" channel="TVSNostalgia.us@SD"><title lang="en">Route 66</title><category lang="en">TV Classics</category></programme>
-<programme start="20260421011454 +0000" stop="20260421024754 +0000" channel="TVSNostalgiaMovies.us@SD"><title lang="en">Mr. Arkadin</title><category lang="en">Movies</category></programme>
-<programme start="20260421024731 +0000" stop="20260421040031 +0000" channel="TVSNostalgiaMovies.us@SD"><title lang="en">A Blueprint for Murder</title><category lang="en">Movies</category></programme>
-<programme start="20260421001930 +0000" stop="20260421003930 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Underdog S3E12</title><category lang="en">Featured</category></programme>
-<programme start="20260421003850 +0000" stop="20260421004550 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Mighty Mouse Ep 5 Super Mouse Rides Again</title><category lang="en">Featured</category></programme>
-<programme start="20260421004455 +0000" stop="20260421004955 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Crusader Rabbit Crusade 1 EP03</title><category lang="en">Featured</category></programme>
-<programme start="20260421004857 +0000" stop="20260421005357 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Batfink Cartoon - The Copycat Bat</title><category lang="en">Featured</category></programme>
-<programme start="20260421005325 +0000" stop="20260421011625 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Doctor Dolittle: Bird Who Was Afraid To Fly</title><category lang="en">Featured</category></programme>
-<programme start="20260421011544 +0000" stop="20260421013844 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">George of the Jungle: The Flavor of Science</title><category lang="en">Featured</category></programme>
-<programme start="20260421013754 +0000" stop="20260421020054 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Linus the Lionhearted: Billy&apos;s Inventions</title><category lang="en">Featured</category></programme>
-<programme start="20260421015957 +0000" stop="20260421022257 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Linus the Lionhearted: Hidden Talent</title><category lang="en">Featured</category></programme>
-<programme start="20260421022158 +0000" stop="20260421024958 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Rocket Robin Hood: Prince of Plotters</title><category lang="en">Featured</category></programme>
-<programme start="20260421024945 +0000" stop="20260421025445 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Crusader Rabbit Crusade 2</title><category lang="en">Featured</category></programme>
-<programme start="20260421025348 +0000" stop="20260421025848 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Crusader Rabbit Crusade 2</title><category lang="en">Featured</category></programme>
-<programme start="20260421025752 +0000" stop="20260421030252 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Crusader Rabbit Crusade 2</title><category lang="en">Featured</category></programme>
-<programme start="20260421030155 +0000" stop="20260421032755 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Mr Magoo S01E05 Magoo Gets His Man</title><category lang="en">Featured</category></programme>
-<programme start="20260421032746 +0000" stop="20260421033146 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Schoolhouse Rock</title><category lang="en">Featured</category></programme>
-<programme start="20260421033049 +0000" stop="20260421033349 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Schoolhouse Rock</title><category lang="en">Featured</category></programme>
-<programme start="20260421033348 +0000" stop="20260421033648 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">last dance-encoded2</title><category lang="en">Featured</category></programme>
-<programme start="20260421033625 +0000" stop="20260421034325 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Lone Ranger - Curse of the Devil Dolls</title><category lang="en">Featured</category></programme>
-<programme start="20260421034237 +0000" stop="20260421034937 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Lone Ranger - Bear Claw</title><category lang="en">Featured</category></programme>
-<programme start="20260421034922 +0000" stop="20260421035422 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Crusader Rabbit Crusade 2</title><category lang="en">Featured</category></programme>
-<programme start="20260421035326 +0000" stop="20260421035826 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Crusader Rabbit Crusade 2</title><category lang="en">Featured</category></programme>
-<programme start="20260421035728 +0000" stop="20260421040028 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Harveytoons</title><category lang="en">Featured</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="TVSQuizShowNetwork.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="TVSQuizShowNetwork.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="TVSQuizShowNetwork.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="TVSQuizShowNetwork.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="TVSQuizShowNetwork.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="TVSSelectNetwork.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="TVSSelectNetwork.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="TVSSelectNetwork.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="TVSSelectNetwork.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="TVSSelectNetwork.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="TVSSiloDiscountNetwork.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="TVSSiloDiscountNetwork.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="TVSSiloDiscountNetwork.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="TVSSiloDiscountNetwork.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="TVSSiloDiscountNetwork.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Kids &amp; Family</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="TVSTallyHo.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="TVSTallyHo.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="TVSTallyHo.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="TVSTallyHo.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="TVSTallyHo.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Entertainment</category></programme>
-<programme start="20260421004022 +0000" stop="20260421014422 +0000" channel="TVSTavern.us@SD"><title lang="en">womenroller-encoded2</title><category lang="en">Featured</category></programme>
-<programme start="20260421014406 +0000" stop="20260421014906 +0000" channel="TVSTavern.us@SD"><title lang="en">Pulling For Glory 13</title><category lang="en">Featured</category></programme>
-<programme start="20260421014819 +0000" stop="20260421024019 +0000" channel="TVSTavern.us@SD"><title lang="en">Championship Bowling</title><category lang="en">Featured</category></programme>
-<programme start="20260421024019 +0000" stop="20260421024319 +0000" channel="TVSTavern.us@SD"><title lang="en">TVS Logo</title><category lang="en">Featured</category></programme>
-<programme start="20260421024258 +0000" stop="20260421024558 +0000" channel="TVSTavern.us@SD"><title lang="en">TVS Logo</title><category lang="en">Featured</category></programme>
-<programme start="20260421024534 +0000" stop="20260421024834 +0000" channel="TVSTavern.us@SD"><title lang="en">TVS Logo</title><category lang="en">Featured</category></programme>
-<programme start="20260421024807 +0000" stop="20260421034407 +0000" channel="TVSTavern.us@SD"><title lang="en">Bowling - Nelson Burton Jr vs Harry Smith</title><category lang="en">Featured</category></programme>
-<programme start="20260421034327 +0000" stop="20260421034627 +0000" channel="TVSTavern.us@SD"><title lang="en">WINE WINE WINE 1 copy-encoded2</title><category lang="en">Featured</category></programme>
-<programme start="20260421034603 +0000" stop="20260421034903 +0000" channel="TVSTavern.us@SD"><title lang="en">TVS Logo</title><category lang="en">Featured</category></programme>
-<programme start="20260421034836 +0000" stop="20260421040036 +0000" channel="TVSTavern.us@SD"><title lang="en">Chong Pal Park vs Vinnie Curto 03</title><category lang="en">Featured</category></programme>
-<programme start="20260421001915 +0000" stop="20260421004815 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Ninja Foodi Grill (800) 383-3597</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421004757 +0000" stop="20260421005057 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">May I-encoded2</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421005032 +0000" stop="20260421011232 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Mari S01e02r - Laila Ali &amp; High Five</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421011151 +0000" stop="20260421013151 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Mari S01e03r - Taste &amp; Gabe Rosado</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421013143 +0000" stop="20260421013443 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">THE WONDERER-encoded2</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421013441 +0000" stop="20260421020041 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Mari S01e01r - Combinations &amp; Nancy Rodriguez</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421020030 +0000" stop="20260421020330 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Just like Romeo and Juliet Instrumental-encoded2</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421020318 +0000" stop="20260421023218 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Paint Zoom (800) 598-0578</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421023210 +0000" stop="20260421023510 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">she&apos;s everything i wanted you to be-encoded2</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421023442 +0000" stop="20260421023842 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">long tall-encoded2</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421023753 +0000" stop="20260421030453 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Mari s01e04 - Cyborg, Corey, Philadelphian</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421030420 +0000" stop="20260421033320 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Ninja Foodi Grill (800) 383-3597</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421033302 +0000" stop="20260421033602 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">May I-encoded2</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421033537 +0000" stop="20260421035737 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Mari S01e02r - Laila Ali &amp; High Five</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421035656 +0000" stop="20260421040056 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Mari S01e03r - Taste &amp; Gabe Rosado</title><category lang="en">Mixed Programming</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="TVSTurbo.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Sports</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="TVSTurbo.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Sports</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="TVSTurbo.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Sports</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="TVSTurbo.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Sports</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="TVSTurbo.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Sports</category></programme>
-<programme start="20260421011728 +0000" stop="20260421025328 +0000" channel="TVSWesternMovie.us@SD"><title lang="en">From Hell to Texas</title><category lang="en">Movies</category></programme>
-<programme start="20260421025310 +0000" stop="20260421040010 +0000" channel="TVSWesternMovie.us@SD"><title lang="en">The Hanged Man</title><category lang="en">Movies</category></programme>
-<programme start="20260421003909 +0000" stop="20260421013709 +0000" channel="TVSWomenSports.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Sports</category></programme>
-<programme start="20260421013657 +0000" stop="20260421023157 +0000" channel="TVSWomenSports.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Sports</category></programme>
-<programme start="20260421023154 +0000" stop="20260421032454 +0000" channel="TVSWomenSports.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Sports</category></programme>
-<programme start="20260421032450 +0000" stop="20260421034850 +0000" channel="TVSWomenSports.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Sports</category></programme>
-<programme start="20260421034819 +0000" stop="20260421040019 +0000" channel="TVSWomenSports.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Sports</category></programme>
+<channel id="TVSBoxing.us@SD"><display-name>TVS Boxing Network</display-name><icon src="https://i.imgur.com/30ZoF75.png"/><url>https://watchyour.tv</url></channel>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="796"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Sports</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="796"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Sports</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="796"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Sports</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="796"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Sports</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="796"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Sports</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="802"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="802"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="802"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="802"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="802"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="815"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="815"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="815"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="815"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="815"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422001227 +0000" stop="20260422010127 +0000" channel="817"><title lang="en">The Hardy Boys Nancy Drew Mysteries S01E03</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422010111 +0000" stop="20260422010511 +0000" channel="817"><title lang="en">long tall-encoded2</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422010422 +0000" stop="20260422013022 +0000" channel="817"><title lang="en">Lassie - Dog Series</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422013010 +0000" stop="20260422015610 +0000" channel="817"><title lang="en">Robin Hood</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422015550 +0000" stop="20260422032050 +0000" channel="817"><title lang="en">All Dogs Go To Heaven (1989)</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422032025 +0000" stop="20260422034625 +0000" channel="817"><title lang="en">The Littlest Hobo - Trouble In Pairs</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422034616 +0000" stop="20260422034916 +0000" channel="817"><title lang="en">Beg Borrow and Steal-encoded2</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422034850 +0000" stop="20260422040050 +0000" channel="817"><title lang="en">BJ and the Bear S01E03</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422002756 +0000" stop="20260422005356 +0000" channel="818"><title lang="en">Jeffersons S03E20</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422005319 +0000" stop="20260422012219 +0000" channel="818"><title lang="en">Room 222 1x23</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422012146 +0000" stop="20260422012746 +0000" channel="818"><title lang="en">Turn The Beat Around-encoded2</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422012718 +0000" stop="20260422015918 +0000" channel="818"><title lang="en">bloopertoons-encoded2</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422015825 +0000" stop="20260422024625 +0000" channel="818"><title lang="en">Tales of the Gold Monkey S01E03</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422024529 +0000" stop="20260422031229 +0000" channel="818"><title lang="en">Room 222 1x24</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422031133 +0000" stop="20260422035933 +0000" channel="818"><title lang="en">wrestling5</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422035933 +0000" stop="20260422040033 +0000" channel="818"><title lang="en">1st &amp; 10 Video 4</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="824"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="824"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="824"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="824"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="824"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="831"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="831"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="831"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="831"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="831"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="832"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Sports</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="832"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Sports</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="832"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Sports</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="832"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Sports</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="832"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Sports</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="833"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Sports</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="833"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Sports</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="833"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Sports</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="833"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Sports</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="833"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Sports</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="834"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="834"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="834"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="834"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="834"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422005316 +0000" stop="20260422012216 +0000" channel="840"><title lang="en">Little Giant Ladder</title><category lang="en">Home Shopping</category></programme>
+<programme start="20260422012156 +0000" stop="20260422015256 +0000" channel="840"><title lang="en">Ninja Foodi Grill (800) 383-35 97</title><category lang="en">Home Shopping</category></programme>
+<programme start="20260422015158 +0000" stop="20260422022158 +0000" channel="840"><title lang="en">Austin City Limits (800) 948-3405</title><category lang="en">Home Shopping</category></programme>
+<programme start="20260422022100 +0000" stop="20260422040000 +0000" channel="840"><title lang="en">Rare Collectibles</title><category lang="en">Home Shopping</category></programme>
+<programme start="20260422001351 +0000" stop="20260422011351 +0000" channel="845"><title lang="en">The Dinah Shore</title><category lang="en">Featured</category></programme>
+<programme start="20260422011303 +0000" stop="20260422013903 +0000" channel="845"><title lang="en">The Rosemary Clooney Show</title><category lang="en">Featured</category></programme>
+<programme start="20260422013831 +0000" stop="20260422014131 +0000" channel="845"><title lang="en">Beg, Borrow and Steal-encoded2</title><category lang="en">Featured</category></programme>
+<programme start="20260422014105 +0000" stop="20260422020705 +0000" channel="845"><title lang="en">Rock, Rock, Rock! Part 2</title><category lang="en">Featured</category></programme>
+<programme start="20260422020632 +0000" stop="20260422022432 +0000" channel="845"><title lang="en">The Dinah Shore</title><category lang="en">Featured</category></programme>
+<programme start="20260422022340 +0000" stop="20260422032240 +0000" channel="845"><title lang="en">Coke Time TV Special (1960)</title><category lang="en">Featured</category></programme>
+<programme start="20260422032211 +0000" stop="20260422032611 +0000" channel="845"><title lang="en">Green Eyed Lady 1-encoded2</title><category lang="en">Featured</category></programme>
+<programme start="20260422032548 +0000" stop="20260422032848 +0000" channel="845"><title lang="en">SugarSlightshow-encoded2</title><category lang="en">Featured</category></programme>
+<programme start="20260422032844 +0000" stop="20260422033244 +0000" channel="845"><title lang="en">BeverlyHillbillies-encoded2</title><category lang="en">Featured</category></programme>
+<programme start="20260422033151 +0000" stop="20260422035751 +0000" channel="845"><title lang="en">The Rosemary Clooney Show</title><category lang="en">Featured</category></programme>
+<programme start="20260422035720 +0000" stop="20260422040020 +0000" channel="845"><title lang="en">The Rosemary Clooney Show</title><category lang="en">Featured</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="846"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="846"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="846"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="846"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="846"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422004331 +0000" stop="20260422004731 +0000" channel="848"><title lang="en">i lcan help-encoded2</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422004647 +0000" stop="20260422005047 +0000" channel="848"><title lang="en">Rockin Robin 1-encoded2</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422005005 +0000" stop="20260422005305 +0000" channel="848"><title lang="en">confidential 1-encoded2</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422005257 +0000" stop="20260422005657 +0000" channel="848"><title lang="en">THE NIGHT CHICAGO DIED-encoded2</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422005647 +0000" stop="20260422005947 +0000" channel="848"><title lang="en">TVS Logo</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422005918 +0000" stop="20260422010618 +0000" channel="848"><title lang="en">Touch The Wind-encoded2</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422010548 +0000" stop="20260422010848 +0000" channel="848"><title lang="en">Turn Down Day-encoded2</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422010840 +0000" stop="20260422011240 +0000" channel="848"><title lang="en">THE WONDERER-encoded2</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422011148 +0000" stop="20260422011548 +0000" channel="848"><title lang="en">back in love again 1-encoded2</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422011519 +0000" stop="20260422040019 +0000" channel="848"><title lang="en">Rare Collectibles</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422004209 +0000" stop="20260422011009 +0000" channel="849"><title lang="en">The Whistler - Cup O&apos; Gold</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422011007 +0000" stop="20260422014207 +0000" channel="849"><title lang="en">$64,000 Question - Dr. Joyce Brothers</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422014144 +0000" stop="20260422021244 +0000" channel="849"><title lang="en">Name That Tune</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422021239 +0000" stop="20260422023839 +0000" channel="849"><title lang="en">The Big Payoff Game Show (1962)</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422023809 +0000" stop="20260422030909 +0000" channel="849"><title lang="en">The Big Surprise with Errol Flynn</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422030849 +0000" stop="20260422033949 +0000" channel="849"><title lang="en">Tic Tac Dough - Jan 31, 1958</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422033904 +0000" stop="20260422040004 +0000" channel="849"><title lang="en">Twenty-One - Stemple &amp; Van Doren</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="TVSBoxing.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Featured</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="TVSBoxing.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Featured</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="TVSBoxing.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Featured</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="TVSBoxing.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Featured</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="TVSBoxing.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Featured</category></programme>
+<programme start="20260422001958 +0000" stop="20260422011058 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">The Alfred Hitchcock Hour S03E24</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422011024 +0000" stop="20260422020124 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">The Alfred Hitchcock Hour S02E12</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422020030 +0000" stop="20260422024430 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">The Alfred Hitchcock Hour S02E14</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422024427 +0000" stop="20260422024727 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">My Special Angel 1-encoded2</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422024714 +0000" stop="20260422031414 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">Sherlock Holmes 13 Split Ticket</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422031403 +0000" stop="20260422034103 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">Sherlock Holmes 09 The Case Of Harry Crocker</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422034010 +0000" stop="20260422040010 +0000" channel="TVSCipherNetwork.us@SD"><title lang="en">Sherlock Holmes 08 The Case Of The Blind Man</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422002115 +0000" stop="20260422002415 +0000" channel="TVSClassicMovies.us@SD"><title lang="en">AD - The Blue Pill (888) 982-9925</title><category lang="en">Movies</category></programme>
+<programme start="20260422002355 +0000" stop="20260422014955 +0000" channel="TVSClassicMovies.us@SD"><title lang="en">Captain Pirate (1952)</title><category lang="en">Movies</category></programme>
+<programme start="20260422014908 +0000" stop="20260422034908 +0000" channel="TVSClassicMovies.us@SD"><title lang="en">Strangers When We Meet (1960)</title><category lang="en">Movies</category></programme>
+<programme start="20260422034809 +0000" stop="20260422035109 +0000" channel="TVSClassicMovies.us@SD"><title lang="en">TVS Logo</title><category lang="en">Movies</category></programme>
+<programme start="20260422035039 +0000" stop="20260422040039 +0000" channel="TVSClassicMovies.us@SD"><title lang="en">Woman of Straw (1964)</title><category lang="en">Movies</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="TVSClassicSports.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Featured</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="TVSClassicSports.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Featured</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="TVSClassicSports.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Featured</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="TVSClassicSports.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Featured</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="TVSClassicSports.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Featured</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="TVSComedyNetwork.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="TVSComedyNetwork.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="TVSComedyNetwork.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="TVSComedyNetwork.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="TVSComedyNetwork.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422004854 +0000" stop="20260422022054 +0000" channel="TVSDriveInMovie.us@SD"><title lang="en">Django</title><category lang="en">Movies</category></programme>
+<programme start="20260422022051 +0000" stop="20260422034451 +0000" channel="TVSDriveInMovie.us@SD"><title lang="en">Machine Gun Kelly (1958)</title><category lang="en">Movies</category></programme>
+<programme start="20260422034438 +0000" stop="20260422040038 +0000" channel="TVSDriveInMovie.us@SD"><title lang="en">Guns for Dollars (1971)</title><category lang="en">Movies</category></programme>
+<programme start="20260422000131 +0000" stop="20260422012731 +0000" channel="TVSFilmNoirNetwork.us@SD"><title lang="en">Chicago Syndicate (1955)</title><category lang="en">Movies</category></programme>
+<programme start="20260422012708 +0000" stop="20260422030108 +0000" channel="TVSFilmNoirNetwork.us@SD"><title lang="en">Whispering City (1947)</title><category lang="en">Movies</category></programme>
+<programme start="20260422030013 +0000" stop="20260422040013 +0000" channel="TVSFilmNoirNetwork.us@SD"><title lang="en">Secret Service Investigator (1948)</title><category lang="en">Movies</category></programme>
+<programme start="20260422011902 +0000" stop="20260422014602 +0000" channel="TVSFrontPageDetective.us@SD"><title lang="en">The Lawless Years - Framed</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422014526 +0000" stop="20260422023826 +0000" channel="TVSFrontPageDetective.us@SD"><title lang="en">Mannix</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422023728 +0000" stop="20260422032828 +0000" channel="TVSFrontPageDetective.us@SD"><title lang="en">Mannix</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422032824 +0000" stop="20260422035224 +0000" channel="TVSFrontPageDetective.us@SD"><title lang="en">Police Surgeon</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422035207 +0000" stop="20260422040007 +0000" channel="TVSFrontPageDetective.us@SD"><title lang="en">Police Surgeon</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422000946 +0000" stop="20260422001646 +0000" channel="TVSHiTops.us@SD"><title lang="en">Casper S01E37 Fright From Wrong</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422001638 +0000" stop="20260422004338 +0000" channel="TVSHiTops.us@SD"><title lang="en">Courageous Cat and Minute Mouse Vol. 10</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422004252 +0000" stop="20260422010452 +0000" channel="TVSHiTops.us@SD"><title lang="en">Clutch Cargo</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422010359 +0000" stop="20260422015159 +0000" channel="TVSHiTops.us@SD"><title lang="en">George of the Jungle - Banana Deficiency</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422015105 +0000" stop="20260422015605 +0000" channel="TVSHiTops.us@SD"><title lang="en">The King and Odie - Left Alone Leonardo</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422015545 +0000" stop="20260422022345 +0000" channel="TVSHiTops.us@SD"><title lang="en">Sky King 3</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422022313 +0000" stop="20260422025413 +0000" channel="TVSHiTops.us@SD"><title lang="en">Calvin And The Colonel 1</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422025327 +0000" stop="20260422025927 +0000" channel="TVSHiTops.us@SD"><title lang="en">Crusader Rabbit Crusade 1 Episode 03</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422025839 +0000" stop="20260422030739 +0000" channel="TVSHiTops.us@SD"><title lang="en">1967 Green Lantern Cartoon</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422030649 +0000" stop="20260422032949 +0000" channel="TVSHiTops.us@SD"><title lang="en">Doctor Dolittle - The Great Turkey Race</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422032936 +0000" stop="20260422040036 +0000" channel="TVSHiTops.us@SD"><title lang="en">Paul Winchell Show</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="TVSHollywoodHistory.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="TVSHollywoodHistory.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="TVSHollywoodHistory.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="TVSHollywoodHistory.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="TVSHollywoodHistory.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="TVSHorrorNetwork.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Movies</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="TVSHorrorNetwork.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Movies</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="TVSHorrorNetwork.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Movies</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="TVSHorrorNetwork.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Movies</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="TVSHorrorNetwork.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Movies</category></programme>
+<programme start="20260422004136 +0000" stop="20260422012736 +0000" channel="TVSMainstreet.us@SD"><title lang="en">High Chaparral</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422012701 +0000" stop="20260422021501 +0000" channel="TVSMainstreet.us@SD"><title lang="en">1984 Budweiser NASCAR 500</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422021424 +0000" stop="20260422030924 +0000" channel="TVSMainstreet.us@SD"><title lang="en">1986 Toyota Score Offroad Championship</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422030828 +0000" stop="20260422031128 +0000" channel="TVSMainstreet.us@SD"><title lang="en">WALK RIGHT BACK 1</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422031107 +0000" stop="20260422031507 +0000" channel="TVSMainstreet.us@SD"><title lang="en">long tall</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422031418 +0000" stop="20260422040018 +0000" channel="TVSMainstreet.us@SD"><title lang="en">BJ and the Bear S02E11</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422002232 +0000" stop="20260422002632 +0000" channel="TVSNostalgia.us@SD"><title lang="en">back in love again 1-encoded2</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422002603 +0000" stop="20260422005603 +0000" channel="TVSNostalgia.us@SD"><title lang="en">GE Theater - The Ballad of Mender McClure</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422005511 +0000" stop="20260422005811 +0000" channel="TVSNostalgia.us@SD"><title lang="en">confidential 1-encoded2</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422005743 +0000" stop="20260422012643 +0000" channel="TVSNostalgia.us@SD"><title lang="en">CBS CARTOON THEATRE with host DICK VAN DYKE</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422012549 +0000" stop="20260422015249 +0000" channel="TVSNostalgia.us@SD"><title lang="en">Judge Roy Bean 01</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422015153 +0000" stop="20260422021853 +0000" channel="TVSNostalgia.us@SD"><title lang="en">Sea Hunt</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422021803 +0000" stop="20260422024403 +0000" channel="TVSNostalgia.us@SD"><title lang="en">Bourbon Street (1954)</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422024344 +0000" stop="20260422030944 +0000" channel="TVSNostalgia.us@SD"><title lang="en">Gomer Pyle USMC - Guest in the Barracks</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422030915 +0000" stop="20260422031315 +0000" channel="TVSNostalgia.us@SD"><title lang="en">96 tears-encoded2</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422031221 +0000" stop="20260422033921 +0000" channel="TVSNostalgia.us@SD"><title lang="en">Night at Lark Cottage (1955)</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422033824 +0000" stop="20260422040024 +0000" channel="TVSNostalgia.us@SD"><title lang="en">Four star playhouse S01E08</title><category lang="en">TV Classics</category></programme>
+<programme start="20260422011052 +0000" stop="20260422024152 +0000" channel="TVSNostalgiaMovies.us@SD"><title lang="en">Beat the Devil</title><category lang="en">Movies</category></programme>
+<programme start="20260422024118 +0000" stop="20260422035918 +0000" channel="TVSNostalgiaMovies.us@SD"><title lang="en">A Blueprint for Murder</title><category lang="en">Movies</category></programme>
+<programme start="20260422035836 +0000" stop="20260422040036 +0000" channel="TVSNostalgiaMovies.us@SD"><title lang="en">The Black Scorpion</title><category lang="en">Movies</category></programme>
+<programme start="20260422000521 +0000" stop="20260422000821 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">sugar2-encoded2</title><category lang="en">Featured</category></programme>
+<programme start="20260422000817 +0000" stop="20260422003417 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Mr Magoo S01E03 Mis Guided Missile</title><category lang="en">Featured</category></programme>
+<programme start="20260422003414 +0000" stop="20260422005514 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Underdog S3E10</title><category lang="en">Featured</category></programme>
+<programme start="20260422005420 +0000" stop="20260422011420 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Underdog S3E11</title><category lang="en">Featured</category></programme>
+<programme start="20260422011350 +0000" stop="20260422013650 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Inspector Gadget</title><category lang="en">Featured</category></programme>
+<programme start="20260422013615 +0000" stop="20260422015915 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Inspector Gadget</title><category lang="en">Featured</category></programme>
+<programme start="20260422015841 +0000" stop="20260422022141 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Inspector Gadget</title><category lang="en">Featured</category></programme>
+<programme start="20260422022108 +0000" stop="20260422024408 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Inspector Gadget</title><category lang="en">Featured</category></programme>
+<programme start="20260422024333 +0000" stop="20260422030333 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Underdog S3E09</title><category lang="en">Featured</category></programme>
+<programme start="20260422030318 +0000" stop="20260422032318 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Underdog S3E13</title><category lang="en">Featured</category></programme>
+<programme start="20260422032307 +0000" stop="20260422032707 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">96TEARS-encoded2</title><category lang="en">Featured</category></programme>
+<programme start="20260422032623 +0000" stop="20260422034923 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">Doctor Dolittle: Bird Who Was Afraid To Fly</title><category lang="en">Featured</category></programme>
+<programme start="20260422034852 +0000" stop="20260422040052 +0000" channel="TVSPinballNetwork.us@SD"><title lang="en">George of the Jungle: The Flavor of Science</title><category lang="en">Featured</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="TVSQuizShowNetwork.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="TVSQuizShowNetwork.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="TVSQuizShowNetwork.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="TVSQuizShowNetwork.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="TVSQuizShowNetwork.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="TVSSelectNetwork.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="TVSSelectNetwork.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="TVSSelectNetwork.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="TVSSelectNetwork.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="TVSSelectNetwork.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="TVSSiloDiscountNetwork.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="TVSSiloDiscountNetwork.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="TVSSiloDiscountNetwork.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="TVSSiloDiscountNetwork.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="TVSSiloDiscountNetwork.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Kids &amp; Family</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="TVSTallyHo.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="TVSTallyHo.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="TVSTallyHo.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="TVSTallyHo.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="TVSTallyHo.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Entertainment</category></programme>
+<programme start="20260422000100 +0000" stop="20260422010500 +0000" channel="TVSTavern.us@SD"><title lang="en">womenroller-encoded2</title><category lang="en">Featured</category></programme>
+<programme start="20260422010444 +0000" stop="20260422010844 +0000" channel="TVSTavern.us@SD"><title lang="en">Basket Cases 1</title><category lang="en">Featured</category></programme>
+<programme start="20260422010811 +0000" stop="20260422011311 +0000" channel="TVSTavern.us@SD"><title lang="en">Basket Cases 3</title><category lang="en">Featured</category></programme>
+<programme start="20260422011310 +0000" stop="20260422011910 +0000" channel="TVSTavern.us@SD"><title lang="en">Luncha Loco Show 6</title><category lang="en">Featured</category></programme>
+<programme start="20260422011849 +0000" stop="20260422012149 +0000" channel="TVSTavern.us@SD"><title lang="en">Luncha Loco Show 13</title><category lang="en">Featured</category></programme>
+<programme start="20260422012140 +0000" stop="20260422012440 +0000" channel="TVSTavern.us@SD"><title lang="en">TVS Logo</title><category lang="en">Featured</category></programme>
+<programme start="20260422012416 +0000" stop="20260422012716 +0000" channel="TVSTavern.us@SD"><title lang="en">Rockin Robin-encoded2</title><category lang="en">Featured</category></programme>
+<programme start="20260422012654 +0000" stop="20260422012954 +0000" channel="TVSTavern.us@SD"><title lang="en">Luncha Loco Show 5</title><category lang="en">Featured</category></programme>
+<programme start="20260422012949 +0000" stop="20260422013249 +0000" channel="TVSTavern.us@SD"><title lang="en">WRESTLING 4-encoded2</title><category lang="en">Featured</category></programme>
+<programme start="20260422013225 +0000" stop="20260422014825 +0000" channel="TVSTavern.us@SD"><title lang="en">Miller Lite Doubles - NC vs Indiana 01</title><category lang="en">Featured</category></programme>
+<programme start="20260422014734 +0000" stop="20260422020334 +0000" channel="TVSTavern.us@SD"><title lang="en">Miller Lite Doubles - NC vs Indiana 02</title><category lang="en">Featured</category></programme>
+<programme start="20260422020248 +0000" stop="20260422030848 +0000" channel="TVSTavern.us@SD"><title lang="en">214 Lillard Asplund-encoded2</title><category lang="en">Featured</category></programme>
+<programme start="20260422030829 +0000" stop="20260422031129 +0000" channel="TVSTavern.us@SD"><title lang="en">TVS Bowling Music Video</title><category lang="en">Featured</category></programme>
+<programme start="20260422031125 +0000" stop="20260422031425 +0000" channel="TVSTavern.us@SD"><title lang="en">Wrestling2-encoded2</title><category lang="en">Featured</category></programme>
+<programme start="20260422031421 +0000" stop="20260422031821 +0000" channel="TVSTavern.us@SD"><title lang="en">Arm Wrestling Championship 8</title><category lang="en">Featured</category></programme>
+<programme start="20260422031722 +0000" stop="20260422040022 +0000" channel="TVSTavern.us@SD"><title lang="en">BOWLING3-encoded2</title><category lang="en">Featured</category></programme>
+<programme start="20260422001444 +0000" stop="20260422001744 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">she&apos;s everything i wanted you to be-encoded2</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422001716 +0000" stop="20260422002216 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">TVS Lift This! Women&apos;s Weight Lifting</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422002155 +0000" stop="20260422002555 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">long tall-encoded2</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422002456 +0000" stop="20260422002756 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">TVS Bowlarama Music Video</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422002752 +0000" stop="20260422004952 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Mari S01e02r - Laila Ali &amp; High Five</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422004921 +0000" stop="20260422005321 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">96 tears-encoded2</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422005227 +0000" stop="20260422005527 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Beg, Borrow and Steal-encoded2</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422005511 +0000" stop="20260422012111 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Mari S01e01r - Combinations &amp; Nancy Rodriguez</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422012100 +0000" stop="20260422014600 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Mari s01e04 - Cyborg, Corey, Philadelphian</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422014525 +0000" stop="20260422021225 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Mari s01e05 - Tijuana, Tito, Guacamaya</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422021151 +0000" stop="20260422021451 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">BUST OUT-encoded2</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422021430 +0000" stop="20260422022030 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">TVS Arm Wrestling Music Video</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422021935 +0000" stop="20260422022435 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Asia Minor-encoded2</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422022402 +0000" stop="20260422022902 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">shame1-encoded2</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422022821 +0000" stop="20260422024821 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Mari S01e03r - Taste &amp; Gabe Rosado</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422024813 +0000" stop="20260422025113 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">she&apos;s everything i wanted you to be-encoded2</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422025045 +0000" stop="20260422025545 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">TVS Lift This! Women&apos;s Weight Lifting</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422025524 +0000" stop="20260422025924 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">long tall-encoded2</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422025825 +0000" stop="20260422030125 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">TVS Bowlarama Music Video</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422030121 +0000" stop="20260422032321 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Mari S01e02r - Laila Ali &amp; High Five</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422032250 +0000" stop="20260422032650 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">96 tears-encoded2</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422032556 +0000" stop="20260422032856 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Beg, Borrow and Steal-encoded2</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422032840 +0000" stop="20260422035440 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Mari S01e01r - Combinations &amp; Nancy Rodriguez</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422035429 +0000" stop="20260422040029 +0000" channel="TVSTodayHomeEntertainmentNetwork.us@SD"><title lang="en">Mari s01e04 - Cyborg, Corey, Philadelphian</title><category lang="en">Mixed Programming</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="TVSTurbo.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Sports</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="TVSTurbo.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Sports</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="TVSTurbo.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Sports</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="TVSTurbo.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Sports</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="TVSTurbo.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Sports</category></programme>
+<programme start="20260422014025 +0000" stop="20260422025425 +0000" channel="TVSWesternMovie.us@SD"><title lang="en">The Daughters of Joshua Cabe (1972)</title><category lang="en">Movies</category></programme>
+<programme start="20260422025416 +0000" stop="20260422040016 +0000" channel="TVSWesternMovie.us@SD"><title lang="en">One-Eyed Jacks</title><category lang="en">Movies</category></programme>
+<programme start="20260422003909 +0000" stop="20260422013709 +0000" channel="TVSWomenSports.us@SD"><title lang="en">teleup-event_1679252400_3600</title><category lang="en">Sports</category></programme>
+<programme start="20260422013657 +0000" stop="20260422023157 +0000" channel="TVSWomenSports.us@SD"><title lang="en">teleup-event_1679256000_3600</title><category lang="en">Sports</category></programme>
+<programme start="20260422023154 +0000" stop="20260422032454 +0000" channel="TVSWomenSports.us@SD"><title lang="en">teleup-event_1679259600_3150</title><category lang="en">Sports</category></programme>
+<programme start="20260422032450 +0000" stop="20260422034850 +0000" channel="TVSWomenSports.us@SD"><title lang="en">teleup-event_1679228983_1409</title><category lang="en">Sports</category></programme>
+<programme start="20260422034819 +0000" stop="20260422040019 +0000" channel="TVSWomenSports.us@SD"><title lang="en">teleup-event_1679240408_3176</title><category lang="en">Sports</category></programme>
 </tv>
